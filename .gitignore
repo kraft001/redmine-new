@@ -32,3 +32,8 @@
 /Gemfile.lock
 /Gemfile.local
 
+.rvmrc
+config/unicorn.rb
+config/*.yml
+*.swp
+*.swo
